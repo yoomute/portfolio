@@ -1,0 +1,89 @@
+.logo{
+    margin-left: 7rem;
+    margin-top: 2rem; 
+}
+.nav{
+    margin-right: 3rem;
+    margin-top:2.5rem; 
+}
+.part-2{
+    
+    margin-top: 5rem;
+    font-family: montserrat;
+    font-weight: 550;
+    font-size: 10px;
+    letter-spacing: 0.06rem;
+    color: rgb(54, 54, 54);
+
+}
+.bottompad{
+    padding-bottom: 5rem;
+}
+.part-2-1{
+    padding-top: 3rem;
+    letter-spacing: 0.06rem;
+    font-size: 16px;
+    
+    
+}
+
+.fontfamily{
+    font-family: montserrat;
+    font-size: rem;
+    font-weight: 900;
+    letter-spacing: 0.07em;
+}
+
+.whitebackground{
+    background-color:white;
+   
+}
+.card{
+    border:none;
+}
+
+.spacing{
+    padding:2rem;
+    padding-left: 4rem;
+}
+
+.thin{
+    font-weight: 300;
+}
+
+.spacingnone{
+    letter-spacing: 0;
+}
+
+.faint{
+    opacity: 60%;
+}
+
+.size-500{
+    max-width: 40rem;
+}
+
+.link{
+    text-decoration: none;
+    color:  rgb(54, 54, 54) ;
+    
+}
+
+.width{
+    width: 100%;
+}
+.footer{
+    background-color: #e6e6e6; 
+    
+    
+
+}
+
+.smallfont{
+    font-size: 12px!important;
+}
+
+ul{
+    margin:0.5em;
+    padding:0;
+}
